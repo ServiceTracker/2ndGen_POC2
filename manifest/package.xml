@@ -141,12 +141,14 @@
         <members>dreamhouse</members>
         <name>PermissionSet</name>
     </types>
+<!--
     <types>
         <members>Property</members>
         <members>PropertyExplorer</members>
         <members>PropertyFinder</members>
         <name>Prompt</name>
     </types>
+-->
     <types>
         <members>nominatim_openstreetmap</members>
         <name>RemoteSiteSetting</name>
