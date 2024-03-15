@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Length</fullName>
+    <active>true</active>
+    <label>Length</label>
+    <picklistValues>
+        <picklist>Type__c</picklist>
+        <values>
+            <fullName>Mandatory</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Max Length</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Max Theshold</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Min Length</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Min Threshold</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

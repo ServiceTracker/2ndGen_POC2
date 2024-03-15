@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>String</fullName>
+        <default>false</default>
+        <label>String</label>
+    </customValue>
+    <customValue>
+        <fullName>Integer</fullName>
+        <default>false</default>
+        <label>Integer</label>
+    </customValue>
+    <customValue>
+        <fullName>Decimal</fullName>
+        <default>false</default>
+        <label>Decimal</label>
+    </customValue>
+    <customValue>
+        <fullName>Boolean</fullName>
+        <default>false</default>
+        <label>Boolean</label>
+    </customValue>
+    <customValue>
+        <fullName>Picklist</fullName>
+        <default>false</default>
+        <label>Picklist</label>
+    </customValue>
+    <description>The type of data that can be collected for an Inspection Item</description>
+    <masterLabel>Item Field Type</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

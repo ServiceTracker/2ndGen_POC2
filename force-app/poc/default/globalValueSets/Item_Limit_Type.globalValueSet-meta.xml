@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Min Threshold</fullName>
+        <default>false</default>
+        <label>Min Threshold</label>
+    </customValue>
+    <customValue>
+        <fullName>Max Theshold</fullName>
+        <default>false</default>
+        <label>Max Theshold</label>
+    </customValue>
+    <customValue>
+        <fullName>Min Length</fullName>
+        <default>false</default>
+        <label>Min Length</label>
+    </customValue>
+    <customValue>
+        <fullName>Max Length</fullName>
+        <default>false</default>
+        <label>Max Length</label>
+    </customValue>
+    <customValue>
+        <fullName>Mandatory</fullName>
+        <default>false</default>
+        <label>Mandatory</label>
+    </customValue>
+    <description>A type of limit to be applied to an Inspection Item</description>
+    <masterLabel>Item Limit Type</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
